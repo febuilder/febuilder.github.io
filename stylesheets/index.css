@@ -1,0 +1,45 @@
+
+*{
+
+	margin: 0;
+	
+	padding: 0;
+
+	background: #fff;
+
+
+}
+
+header{
+
+	position: absolute;
+
+	width: 600px;
+
+	height: 200px;
+
+	line-height: 60px;
+
+	top: 50%;
+
+	left: 50%;
+
+	margin-left: -300px;
+
+	margin-top: -100px;
+
+	border: 1px solid #249cfb;
+
+	text-align: center;
+
+	color: #249cfb
+
+
+
+}
+
+.nav-title{
+
+	margin: 20px auto 0 auto;
+
+}
